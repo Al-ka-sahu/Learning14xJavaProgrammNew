@@ -1,6 +1,6 @@
 package ex_02_Java_Basics;
 
-public class Lab021_interview_QnA3 {
+public class Lab021_Boolean {
 
     public static void main(String[] args) {
 

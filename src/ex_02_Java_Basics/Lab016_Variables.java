@@ -7,7 +7,7 @@ public class Lab016_Variables {
         a=65+1;
         System.out.println(a);
 
-//        recent current value be print = 66 (1st assigned the value then replace the value 65)
+        /* recent current value be print = 66 (1st assigned the value then replace the value 65) */
 
 
     }

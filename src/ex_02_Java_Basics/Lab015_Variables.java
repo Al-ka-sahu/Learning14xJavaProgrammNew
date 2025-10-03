@@ -15,7 +15,8 @@ public class Lab015_Variables {
         * */
        byte age1= 45;
        byte age_promod = 50;
-       // can i change the promod age? = Yes, you can change any number of value.
+        /* can i change the promod age? = Yes, you can change any number of value. */
+
         age_promod =111;
         System.out.println(age_promod);
 
