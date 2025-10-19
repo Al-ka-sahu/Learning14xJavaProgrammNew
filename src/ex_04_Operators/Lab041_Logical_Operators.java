@@ -14,6 +14,8 @@ public class Lab041_Logical_Operators {
         boolean c1 = false && true;
         System.out.println(c1);  // AND GATE system = o/p = true
 
+
+
         // refer notebook notes also
 
 
