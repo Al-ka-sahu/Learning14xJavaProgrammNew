@@ -9,7 +9,7 @@ public class Lab076_Exp2 {
 //        D & R
 //        ++a = A, ExpA -> 11, a -> 11
 //        ++a = B, ExpB -> 12, b -> 12
-//         ExpA + ExpB -> 11+12 -> 12, a = 12
+//         ExpA + ExpB -> 11+12 -> 23, a = 12
 
 
 
