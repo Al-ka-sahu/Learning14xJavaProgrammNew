@@ -1,6 +1,6 @@
 package ex_02_Java_Basics;
 
-public class Lab024_printF {
+public class                                                                                                      Lab024_printF_Print_Table_9 {
     public static void main(String[] args) {
      int a = 10;
      int b = 20;
