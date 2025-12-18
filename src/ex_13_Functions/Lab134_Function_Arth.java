@@ -38,7 +38,7 @@ int result_mod =  mod(a, b);
     }
 
 // handled edgecases via created the userdefined function of scanner and called it above
-    static int readInt(Scanner scanner, String prompt) { // output always will be int if parameter is difference
+    static int readInt(Scanner scanner, String prompt) { // output always will be int if parameter is difference    fy  yy
         System.out.println(prompt);
       if (scanner.hasNextInt()){   // scanner function2
           return scanner.nextInt();
