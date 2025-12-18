@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="true" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="corretto-24" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="MAIN_CLASS_NAME" value="ex_06_Ternary_Operators.Lab068_Real_Age_Classification" />
+    <module name="LearningATB14XJavaProgramNew" />
+    <option name="PROGRAM_PARAMETERS" value="68" />
+    <option name="WORKING_DIRECTORY" value="$USER_HOME$/ATB Project1/src/ex_02_Java_Basics" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
